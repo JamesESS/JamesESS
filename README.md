@@ -18,6 +18,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql icon" width="40" height="40"/>
   </a>   
 </p>
+
 - 🚲 I've been a bicycle mechanic for the last seven years and am excited for some new challenges!!
 - 🎓 I'm studying on the [Founders and Coders](https://www.foundersandcoders.com/) foundation programme
 - 📚 Keep up to date with what I've [learnt]() so far
