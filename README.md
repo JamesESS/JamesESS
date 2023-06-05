@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm James (he/him)👋</h1>
 <h2 align="center">🔧Software developer in training🔧</h2>
-
----
-
 <h2 align="center">Languages & Tools</h2>
 <p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -20,14 +17,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql icon" width="40" height="40"/>
   </a>   
-
 </p>
-
----
 - 🚲 I've been a bicycle mechanic for the last seven years and am excited for some new challenges!!
 - 🎓 I'm studying on the [Founders and Coders](https://www.foundersandcoders.com/) foundation programme
 - 📚 Keep up to date with what I've [learnt]() so far
----
 ## Check out some of my recent projects below
 - [When To](https://github.com/JamesESS/whento)
     - An agency website built with a focus on accessibility and responsiveness
