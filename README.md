@@ -25,7 +25,7 @@
   </a>  
 </p>
 
-- 🚲 I've been a bicycle mechanic for the last seven years and am excited for some new challenges!!
+- 🚲 I've been a bicycle mechanic for the last eight years and am excited for some new challenges!!
 - 🎓 I'm studying on the [Founders and Coders](https://www.foundersandcoders.com/) developer programme
 ## Check out some of my recent projects below
 - [2048](https://github.com/fac28/Week5-James_Deepa)
